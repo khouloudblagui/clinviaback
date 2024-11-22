@@ -51,3 +51,11 @@ y
 Isrc/main/java/org/example/authentification/AuthenticationApplication.java,f\9\f9fd6b8ba99ac049ec1a0030661c692ada6e8077
 s
 Csrc/main/java/org/example/authentification/proxy/PatientClient.java,7\3\73ea48402326fee4a5eaffdb78a2d96ef218e7c3
+e
+5src/main/java/org/example/doctor/Entity/CarePlan.java,b\e\be7e68e70431f1bfdc696a4f7a2b591b1d64ae93
+i
+9src/main/java/org/example/doctor/Repository/CareRepo.java,e\5\e5e8621d6e67220c2ad0210dbd88a9c88daf95ad
+i
+9src/main/java/org/example/doctor/Service/CareService.java,2\a\2ad15453164a0d02c900dcc3dc21bbf2a6a72ba8
+s
+Csrc/main/java/org/example/doctor/Controller/CarePlanController.java,7\5\7535c6d6ccf5274f8fab3578a079cb6441bc2626
