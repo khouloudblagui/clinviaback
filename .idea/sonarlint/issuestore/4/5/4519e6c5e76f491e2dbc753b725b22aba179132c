@@ -1,0 +1,14 @@
+
+h
+java:S1192<"KDefine a constant instead of duplicating this literal "medicament" 4 times.(ªÔÂÇ8¢›ùú¸2
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(àòÏ¦ÿÿÿÿÿ
+_
+java:S1854"=Remove this useless assignment to local variable "userInput".(ë€‚Àúÿÿÿÿ8ÎÎ¤ú¸2
+C
+java:S1452"&Remove usage of generic wildcard type.(á¬†ò8Ø¼ìø¸2
+P
+java:S1481".Remove this unused "userInput" local variable.(ë€‚Àúÿÿÿÿ8ÓÎ¤ú¸2
+L	java:S106'"+Replace this use of System.out by a logger.(ÂøĞëøÿÿÿÿ8˜ğ³ú¸2
+L	java:S106("+Replace this use of System.out by a logger.(Ü¦ˆÎşÿÿÿÿ8™ğ³ú¸2
+W
+java:S1068"5Remove this unused "dialogflowService" private field.(”Ó½ëûÿÿÿÿ8ÛÎ¤ú¸2

@@ -31,3 +31,15 @@ l
 <Doctor/src/main/java/org/example/doctor/Entity/CarePlan.java,4\c\4c3fb4d4276d177c1bb657cabe02deb45c8c2553
 k
 ;Doctor/src/main/java/org/example/doctor/Entity/History.java,1\1\1131599b6961c7337970cd6d2fcda60ad66c4c1a
+ƒ
+SDoctor/src/main/java/org/example/doctor/Controller/DialogflowWebhookController.java,4\5\4519e6c5e76f491e2dbc753b725b22aba179132c
+}
+MDoctor/src/main/java/org/example/doctor/Controller/AppointmentController.java,b\1\b14f2c3a6b8644663c97a7c7e7e3bc2889da50e9
+}
+MDoctor/src/main/java/org/example/doctor/Repository/AppointmentRepository.java,0\7\07f4f2e71c827e4044aa08865b84d5112cc13476
+>
+Doctor/pom.xml,8\5\8509f9f9bb5652ff651a36206b1bb8a589af51a9
+v
+FDoctor/src/main/java/org/example/doctor/Service/DialogflowService.java,9\1\91e19d627e4474696bc9d9e9fe41e4e42d05980c
+H
+Parameterization/pom.xml,c\e\ce549d6f243a4706869261bd784e0148b9b00c01

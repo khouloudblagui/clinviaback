@@ -13,8 +13,8 @@ spring:
   mail:
     host: smtp.gmail.com
     port: 587
-    username: hrportal2023@gmail.com
-    password: xvlheofbnezururu  # Consider using environment variables or secrets management for the password
+    username: khouloudblagui61@gmail.com
+    password: kuvp wehr rmol hcpn  # Consider using environment variables or secrets management for the password
     properties:
       mail:
         smtp:

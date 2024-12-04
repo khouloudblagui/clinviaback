@@ -141,6 +141,21 @@
             <version>1.0-SNAPSHOT</version>
             <scope>compile</scope>
         </dependency>
+        <!-- Google Cloud Dialogflow -->
+        <!-- https://mvnrepository.com/artifact/com.google.cloud/google-cloud-dialogflow -->
+        <dependency>
+            <groupId>com.google.cloud</groupId>
+            <artifactId>google-cloud-dialogflow</artifactId>
+            <version>2.2.0</version>
+        </dependency>
+
+
+        <dependency>
+            <groupId>com.google.protobuf</groupId>
+            <artifactId>protobuf-java</artifactId>
+            <version>3.11.4</version>
+        </dependency>
+
     </dependencies>
 
     <dependencyManagement>
@@ -171,4 +186,10 @@
             </plugin>
         </plugins>
     </build>
+    <repositories>
+        <repository>
+            <id>google-repo</id>
+            <url>https://maven.google.com</url>
+        </repository>
+    </repositories>
 </project>
