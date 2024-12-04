@@ -1,13 +1,25 @@
 
-r	java:S117+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô¿Áûÿÿÿÿ8¥»Ÿ„µ2
+k	java:S117+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô¿Áûÿÿÿÿ
 t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ŞÂ†·şÿÿÿÿ
-_
-java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8¯»Ÿ„µ2
-_
-java:S6813 "BRemove this field injection and use constructor injection instead.(êæÄŞ8°»Ÿ„µ2
-_
-java:S6813#"BRemove this field injection and use constructor injection instead.(êæÄŞ8°»Ÿ„µ2
-_
-java:S6813&"BRemove this field injection and use constructor injection instead.(êæÄŞ8°»Ÿ„µ2
-_
-java:S6813)"BRemove this field injection and use constructor injection instead.(êæÄŞ8°»Ÿ„µ2
+X
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813 "BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813#"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813&"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813)"BRemove this field injection and use constructor injection instead.(êæÄŞ
+h
+java:S6204A"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹
+h
+java:S6204F"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹
+h
+java:S6204K"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹
+h
+java:S6204P"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹
+f
+java:S1128"KRemove this unused import 'com.example.parameterization.Entity.Medication'.(ûøÈıÿÿÿÿ
+F
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ
