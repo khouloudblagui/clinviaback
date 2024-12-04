@@ -43,3 +43,17 @@ v
 FDoctor/src/main/java/org/example/doctor/Service/DialogflowService.java,9\1\91e19d627e4474696bc9d9e9fe41e4e42d05980c
 H
 Parameterization/pom.xml,c\e\ce549d6f243a4706869261bd784e0148b9b00c01
+Ñ
+Tauthentification/src/main/java/org/example/authentification/auth/AuthController.java,2\1\21005e414b919e729283993731e8e53cfeea0750
+Ñ
+Tauthentification/src/main/java/org/example/authentification/proxy/PatientClient.java,c\4\c46818fba3b93b75937118363774588f1886430c
+Å
+Qauthentification/src/main/java/org/example/authentification/User/ChatMessage.java,6\3\63ad80d5dc0e2882e94204219f8979e701fe81f8
+ä
+Zauthentification/src/main/java/org/example/authentification/auth/PasswordResetService.java,1\e\1ef53851862bcdf703d12113bf22cdfd47322942
+ã
+[authentification/src/main/java/org/example/authentification/auth/AuthenticationRequest.java,3\b\3bb0cbaeca99726247ed4c1f73b5574b2d3ec960
+i
+9Admin/src/main/java/org/example/Entity/OperationRoom.java,1\1\11f7ec51e2a43b1b4212fbadb12af48280a7520a
+o
+?Doctor/src/main/java/org/example/doctor/Entity/Appointment.java,1\8\186c75da48ffcc2455270ee797ce22ea219e226c
