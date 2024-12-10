@@ -17,3 +17,11 @@ i
 9Admin/src/main/java/org/example/Entity/OperationRoom.java,1\1\11f7ec51e2a43b1b4212fbadb12af48280a7520a
 w
 GAdmin/src/main/java/org/example/Controller/OperationRoomController.java,7\6\7630e3a2b93ef9e2db9d66df51e49663b7ecec93
+p
+@Doctor/src/main/java/org/example/doctor/Entity/Consultation.java,0\2\0249e877caaa9198466e8ace812935dfe50f5831
+‰
+YParameterization/src/main/java/com/example/parameterization/Entity/SurgicalProcedure.java,4\c\4c1087e64e211f253e63aebda88972b0d98e402a
+ƒ
+SDoctor/src/main/java/org/example/doctor/Controller/DialogflowWebhookController.java,4\5\4519e6c5e76f491e2dbc753b725b22aba179132c
+v
+FDoctor/src/main/java/org/example/doctor/Service/DialogflowService.java,9\1\91e19d627e4474696bc9d9e9fe41e4e42d05980c
